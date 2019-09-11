@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="70" src="https://minormole.github.io/RcloneLab/img/title_rclonelab.png">
+  <img height="70" src="https://github.com/Bilibox/RcloneLab/blob/master/img/title_rclonelab.png?raw=true">
 </p>
 **RcloneLab** is a [**rclone**](https://rclone.org/) GUI for Google Colaboratory, similar to [**Rclone Browser**](https://github.com/MinorMole/RcloneBrowser-Portable).
 
